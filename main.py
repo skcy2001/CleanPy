@@ -26,9 +26,9 @@ if __name__ == "__main__":
 
     choice = int(
         input(
-            "Press [1]: for Weak arrange"+
-            "\nPress [2]: for Strong arrange"+
-            "\nPress [0]: to exit\nOption: "
+            "Press [1]: for Weak arrange"
+            + "\nPress [2]: for Strong arrange"
+            + "\nPress [0]: to exit\nOption: "
         )
     )
 
