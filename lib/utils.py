@@ -63,7 +63,7 @@ def configur():
     """
     Read configuration file and create index of
     extentions with respect to their folder types
-    
+
     """
     config = configparser.ConfigParser()
     config.read("config.ini")
